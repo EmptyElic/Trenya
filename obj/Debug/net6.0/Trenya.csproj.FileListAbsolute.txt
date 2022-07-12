@@ -1,0 +1,15 @@
+U:\gitTren\Trenya\bin\Debug\net6.0\Trenya.exe
+U:\gitTren\Trenya\bin\Debug\net6.0\Trenya.deps.json
+U:\gitTren\Trenya\bin\Debug\net6.0\Trenya.runtimeconfig.json
+U:\gitTren\Trenya\bin\Debug\net6.0\Trenya.dll
+U:\gitTren\Trenya\bin\Debug\net6.0\Trenya.pdb
+U:\gitTren\Trenya\obj\Debug\net6.0\Trenya.csproj.AssemblyReference.cache
+U:\gitTren\Trenya\obj\Debug\net6.0\Trenya.GeneratedMSBuildEditorConfig.editorconfig
+U:\gitTren\Trenya\obj\Debug\net6.0\Trenya.AssemblyInfoInputs.cache
+U:\gitTren\Trenya\obj\Debug\net6.0\Trenya.AssemblyInfo.cs
+U:\gitTren\Trenya\obj\Debug\net6.0\Trenya.csproj.CoreCompileInputs.cache
+U:\gitTren\Trenya\obj\Debug\net6.0\Trenya.dll
+U:\gitTren\Trenya\obj\Debug\net6.0\refint\Trenya.dll
+U:\gitTren\Trenya\obj\Debug\net6.0\Trenya.pdb
+U:\gitTren\Trenya\obj\Debug\net6.0\Trenya.genruntimeconfig.cache
+U:\gitTren\Trenya\obj\Debug\net6.0\ref\Trenya.dll
